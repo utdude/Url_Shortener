@@ -92,7 +92,7 @@ node App.js
 ---
 ## 🧪 Postman Testing Collection
 
-- **[Click Here - Postman Collection Link](https://.postman.co/workspace/My-Workspace~546fe28a-8696-4fbe-840f-75f0aae12e23/collection/undefined?action=share&creator=37121678)**
+- **[Click Here - Postman Collection Link](https://web.postman.co/workspace/My-Workspace~546fe28a-8696-4fbe-840f-75f0aae12e23/collection/undefined?action=share&creator=37121678)**
 
 *Postman Shorten/ Route*
 ![Screenshot](./img/3.png)
